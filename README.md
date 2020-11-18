@@ -36,7 +36,7 @@ export default {
 </script>
 ```
 
-
+#### Implementation
 ```vue
 <template>
     <v-lazy
@@ -71,7 +71,6 @@ export default {
     </v-lazy>
 </template>
 ```
-#### Implementation
 
 ```vue
 <script>
