@@ -31,10 +31,12 @@
         </v-sheet>
     </v-lazy>
 </template>
+```
 
+```vue
 <script>
 export default {
-    name: 'v-lazy-img',
+    name: 'lazyImg',
     props: {
         width: null,
         aspect: null,
